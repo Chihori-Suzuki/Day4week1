@@ -1,0 +1,13 @@
+div.Example{
+    background-color: antiquewhite;
+}
+
+.header-cat{
+    display: contents;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#cat-news{
+    color: red;
+}
